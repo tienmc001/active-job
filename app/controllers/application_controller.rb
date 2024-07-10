@@ -4,4 +4,7 @@ class ApplicationController < ActionController::Base
 
   def cde
   end
+
+  def eafa
+  end
 end
